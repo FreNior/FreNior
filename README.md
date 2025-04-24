@@ -1,18 +1,23 @@
-## Hey, Welcome! My name is Junior Freitas and i am on a programming journey!  ##
+## Hey, Welcome! My name is Junior Freitas, and I am on a programming journey!  ##
 
 ![NUX_Octodex](https://github.com/user-attachments/assets/dd494af1-3d71-4ad1-9cbb-a96af718b0a3)
 
 ## A little backstory about my love for programming ##
 
-I'm a gamer by heirloom, my dad and my mom are gamers, and my dad loved electronics and circuitry making, so i've always been in this world. In my childhood i have discovered a game called "Minecraft". I've also learned the world of mods because of it, and in the early days of Minecraft, to put mods in it, you had to open the .jar file and insert them there. I used to open it with WinRAR and inject the mods on the game, even knowing that might breaak the game. I've entered the Minecraft Modding community and dreamed to one day make my own mods for the game, and that's how my love for programming blossomed!
+I'm a gamer by heritage. My dad and my mom are gamers, and my dad had a passion for working with electronics and building circuits, which sparked my early exposure to the world of technology. In my childhood, I discovered a game called "Minecraft," which sparked my creativity and curiosity. I learned the basics of programming by modifying the .jar files in older Minecraft versions to add mods. This hands-on experience taught me fundamental concepts like file manipulation, logic, and problem-solving, while also giving me a sense of accomplishment when I successfully customized the game. It was through this process that I realized programming could be both fun and empowering!
 
-I am curious by nature, i love to learn, to interact with people, and to create! And a very good listener!!  
+## About me and my abilities ##
 
-Today i am a student developer and i am learning front and back-end, with desires of learning Java, Python and C#. As a strongly self-taught person, i have always prioritized learrning. Even if i don't use that information that i've learned, at least the path of learning it made me more capable, and maybe i can use it as a hobby!
+I am curious by nature, I love to learn, to interact with people, and to create! And i'm a very good listener
 
-My biggest dream is to work with great minds, to grow not only as a person, but as a part of a society that builds and moves our wolrd with innovation and information.
+Today i am a student developer and i am learning front-end and back-end technologies, with desires of learning Java, Python and C#. As a strongly self-taught person, i have always prioritized learrning. Even if i don't use that information that i've learned, at least the path of learning it made me more capable, and maybe i can use it as a hobby!
+
+My biggest dream is to work with great minds, to grow not only as a person, but as a part of a society that builds and drives our wolrd with innovation and information.
 
 If you liked my introduction, feel free to give me an feedback on any of my projects! Just remember: Be polite!
+
+
+
 
 
 
