@@ -14,10 +14,9 @@ Today, I am a student developer learning front-end and back-end technologies, wi
 
 My biggest dream is to work with great minds and grow not only as a person but also as part of a society that builds and drives our world with innovation and information.
 
-If you liked my introduction, feel free to give me a feedback on any of my projects! Just remember to be polite!
+ If you liked my introduction, feel free to give me feedback on any of my projects! Just remember to be polite!
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreNior&show_icons=true)
 
 
 
