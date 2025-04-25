@@ -4,7 +4,7 @@
 
 ## A little backstory about my love for programming ##
 
-I'm a gamer by heritage. Both my dad and my mom are gamers, and my dad had a passion for working with electronics and building circuits, which sparked my early exposure to the world of technology. In my childhood, I discovered a game called "Minecraft," which sparked my creativity and curiosity. I learned the basics of programming by modifying the .jar files in older Minecraft versions to add mods. This hands-on experience taught me fundamental concepts like file manipulation, logic, and problem-solving, while also giving me a sense of accomplishment when I successfully customized the game. It was through this process that I realized programming could be both fun and empowering!
+I'm a gamer by heritage. Both my dad and my mom are gamers, and my dad had a passion for working with electronics and building circuits, which sparked my early exposure to the world of technology. In my childhood, I discovered a game called "Minecraft" and its modding community, which sparked my creativity and curiosity. I learned the basics of programming by modifying the .jar files in older Minecraft versions to add mods. This hands-on experience taught me fundamental concepts like file manipulation, logic, and problem-solving, while also giving me a sense of accomplishment when I successfully customized the game. It was through this process that I realized programming could be both fun and empowering!
 
 ## About me and my abilities ##
 
