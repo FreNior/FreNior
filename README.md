@@ -8,7 +8,7 @@ I'm a gamer by heritage. Both my dad and my mom are gamers, and my dad had a pas
 
 ## About me and my abilities ##
 
-I am curious by nature. I love to learn, to interact with people, and to create! i'm also a very good listener.
+I am curious by nature. I love to learn, to interact with people, and to create! I'm also a very good listener.
 
 Today, I am a student developer learning front-end and back-end technologies, with a desire to learn Java, Python, and C#. As a strongly self-taught person, I have always prioritized learning. Even if i don't use that information that i've learned, at least the path of learning it made me more capable, and maybe i can use it as a hobby!
 
