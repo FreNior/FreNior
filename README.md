@@ -1,8 +1,8 @@
 ## Hey, welcome! My name is Junior Freitas, and I am on a programming journey! ##
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/dd494af1-3d71-4ad1-9cbb-a96af718b0a3" alt="NUX_Octodex" width="400px">
-</div>
+</p>
 
 ## A little backstory about my love for programming ##
 
